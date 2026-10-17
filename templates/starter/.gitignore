@@ -1,0 +1,12 @@
+build/
+.gradle/
+.kotlin/
+.idea/
+*.iml
+local.properties
+.loom/
+.eclipse/
+run/
+runs/
+logs/
+crash-reports/
